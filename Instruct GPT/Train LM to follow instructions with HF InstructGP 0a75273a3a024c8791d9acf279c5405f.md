@@ -12,7 +12,7 @@ Use RLHF with GPT 3 to follow class of written instructions, human preferences a
 - RM is used as a reward functions to train supervised baseline model,
 - then researchers rate the quality of model outputs.
 
-![Untitled](Train%20LM%20to%20follow%20instructions%20with%20HF%20InstructGP%200a75273a3a024c8791d9acf279c5405f/Untitled.png)
+![Untitled](./InstructGPTImage/system.png)
 
 1: Supervised Finetuning, 2: Reward Function, 3: Proximal Policy Optimization
 
